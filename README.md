@@ -2,7 +2,7 @@
 
 My solutions for CS50-SQL problem sets.
 
-## Links to official problem sets (2026 version)
+## Links to official problem sets (2025 version)
 
 ### Week 0: Querying
 
