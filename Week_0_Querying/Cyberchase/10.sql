@@ -1,3 +1,5 @@
-select id, title, production_code 
+select id, 
+      title, 
+      production_code 
 from episodes
 order by production_code;
