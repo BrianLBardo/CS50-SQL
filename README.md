@@ -1,6 +1,6 @@
 # CS50-SQL
 
-My solutions for CS50-SQL problem sets (WIP).
+My solutions for CS50-SQL problem sets.
 
 ## Links to official problem sets (2026 version)
 
