@@ -1,4 +1,4 @@
-# CS50-SQL
+# CS50 Introduction to SQL
 
 My solutions for CS50-SQL problem sets.
 
