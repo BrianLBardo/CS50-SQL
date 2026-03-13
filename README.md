@@ -2,6 +2,8 @@
 
 My solutions for CS50-SQL problem sets.
 
+WIP: Uploading the sets will take a bit of time 
+
 ## Links to official problem sets (2025 version)
 
 ### Week 0: Querying
